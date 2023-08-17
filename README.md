@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kumar Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" height="230" width="306" src="https://github.com/VaibhavKVerma/VaibhavKVerma/blob/main/IMG20221211112807.jpg" />
+<h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkverma&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkverma" /> </p>
 
