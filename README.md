@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkverma&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavkverma" /> </p>
 
-- 👨‍💻 All of my projects are available at [vaibhavkumarverma.netlify.app](vaibhavkumarverma.netlify.app)
+- 👨‍💻 All of my projects are available at **vaibhavkumarverma.netlify.app**
 
 - 📫 How to reach me **vaibhavverma15062001@gmail.com**
 
