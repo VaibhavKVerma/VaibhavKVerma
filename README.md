@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kumar Verma</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Verma</h1>
 
 <h3 align="left">A passionate Full Stack Developer</h3>
 
